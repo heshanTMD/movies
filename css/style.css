@@ -847,6 +847,7 @@ section {
   }
   .home .content span {
     font-size: 8vw;
+    text-decoration: none;
   }
   .home .content h3 {
     font-size: 9vw;
