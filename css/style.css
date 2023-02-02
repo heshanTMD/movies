@@ -841,6 +841,7 @@ section {
     margin: 2rem;
     font-size: 2rem;
     display: block;
+    color: #29d9d5;
   }
   .home {
     margin-top: 10rem;
@@ -848,7 +849,6 @@ section {
   .home .content span {
     font-size: 8vw;
     text-decoration: none;
-    color: #29d9d5;
   }
   .home .content h3 {
     font-size: 9vw;
