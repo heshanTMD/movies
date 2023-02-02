@@ -804,8 +804,9 @@ section {
   color: #aaa;
 }
 
-.credit span {
+.credit span a{
   color: #29d9d5;
+  text-decoration: none;
 }
 
 @media (max-width: 991px) {
