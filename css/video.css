@@ -4,7 +4,7 @@
     -ms-grid-columns: (minmax(27rem, 1fr))[auto-fit];
     grid-template-columns: repeat(auto-fit, minmax(27rem, 1fr));
     gap: 1.5rem;
-
+    margin-top: 80px;
 }
 
 .box-container .box {
@@ -42,3 +42,15 @@
     margin-right: 8px;
   }
   
+.box-container .box .video {
+    height: 50rem;
+    overflow: hidden;
+    width: 100%;
+  }
+  
+.box-container .box .video iframe {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+  }
