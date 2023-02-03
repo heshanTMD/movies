@@ -1,0 +1,44 @@
+.box-container {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: (minmax(27rem, 1fr))[auto-fit];
+    grid-template-columns: repeat(auto-fit, minmax(27rem, 1fr));
+    gap: 1.5rem;
+
+}
+
+.box-container .box {
+    border-radius: 1rem;
+    overflow: hidden;
+    background: #222;
+  }
+  
+
+.box-container .box .content {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+.box-container .box .content h3 {
+    font-size: 2rem;
+    color: #fff;
+  }
+  
+.box-container .box .content p {
+    padding: 1rem 0;
+    font-size: 1.4rem;
+    color: #aaa;
+    line-height: 2;
+  }
+  
+.box-container .box .content p span{
+    background: rgb(255, 136, 0);
+    color: #111;
+    border-radius: 2px;
+  }
+  
+.box-container .box .content p i{
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+  
