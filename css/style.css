@@ -29,7 +29,7 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-  background: #29d9d5;
+  background: #f00606;
   border-radius: 5rem;
 }
 
@@ -48,7 +48,7 @@ section {
 }
 
 .heading span {
-  color: #29d9d5;
+  color: #f00606;
   font-size: 2rem;
 }
 
@@ -62,15 +62,15 @@ section {
   display: inline-block;
   padding: 1rem 3rem;
   font-size: 1.7rem;
-  color: #29d9d5;
-  border: 0.2rem solid #29d9d5;
+  color: #f00606;
+  border: 0.2rem solid #f00606;
   border-radius: 5rem;
   cursor: pointer;
   background: none;
 }
 
 .btn:hover {
-  background: #29d9d5;
+  background: #f00606;
   color: #111;
 }
 
@@ -101,7 +101,7 @@ section {
 }
 
 .header .navbar a:hover {
-  color: #29d9d5;
+  color: #f00606;
 }
 
 .header .btn {
@@ -116,7 +116,7 @@ section {
 }
 
 .header .icons div:hover{
-  color: #29d9d5;
+  color: #f00606;
 }
 
 .header .search-from{
@@ -152,7 +152,7 @@ section {
 }
 
 .header .search-from label:hover{
-  color: #29d9d5;
+  color: #f00606;
 }
 
 .logo {
@@ -162,7 +162,7 @@ section {
 }
 
 .logo i {
-  color: #29d9d5;
+  color: #f00606;
   padding-right: .5rem;
 }
 
@@ -179,7 +179,7 @@ section {
   width: 90%;
   border-radius: 1rem;
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 17, 17, 0.7)), to(rgba(17, 17, 17, 0.7))), url(../images/home-bg.jpg) no-repeat;
-  background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(../images/home-bg.jpg) no-repeat;
+  background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(../images/bg-im.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   display: -webkit-box;
@@ -259,7 +259,7 @@ section {
   width: 100%;
   padding: 1.2rem 1.4rem;
   border-radius: 5rem;
-  border: 0.2rem solid #29d9d5;
+  border: 0.2rem solid #f00606;
   font-size: 1.6rem;
   color: #aaa;
   text-transform: none;
@@ -313,7 +313,7 @@ section {
 }
 
 .about .video-container .controls span:hover {
-  background: #29d9d5;
+  background: #f00606;
 }
 
 .about .content {
@@ -324,7 +324,7 @@ section {
 }
 
 .about .content span {
-  color: #29d9d5;
+  color: #f00606;
   font-size: 2rem;
 }
 
@@ -403,7 +403,7 @@ section {
 
 .destination .box-container .box .content a {
   font-size: 1.7rem;
-  color: #29d9d5;
+  color: #f00606;
 }
 
 .destination .box-container .box .content a:hover i {
@@ -431,12 +431,12 @@ section {
 }
 
 .services .box-container .box:hover {
-  border: 0.2rem solid #29d9d5;
+  border: 0.2rem solid #f00606;
 }
 
 .services .box-container .box .m-icon i {
   font-size: 4rem;
-  color: #29d9d5;
+  color: #f00606;
   margin-bottom: 2rem;
 }
 
@@ -465,7 +465,7 @@ section {
 
 .services .box-container .box a {
   font-size: 1.7rem;
-  color: #29d9d5;
+  color: #f00606;
 }
 
 .services .box-container .box a:hover i {
@@ -526,7 +526,7 @@ section {
 
 .review .content span {
   font-size: 2rem;
-  color: #29d9d5;
+  color: #f00606;
 }
 
 .review .content h3 {
@@ -564,7 +564,7 @@ section {
 }
 
 .review .box-container .box:hover {
-  border: 0.2rem solid #29d9d5;
+  border: 0.2rem solid #f00606;
 }
 
 .review .box-container .box p {
@@ -642,7 +642,7 @@ section {
 }
 
 .blogs .box-container .box .content .link:hover {
-  color: #29d9d5;
+  color: #f00606;
 }
 
 .blogs .box-container .box .content p {
@@ -671,12 +671,12 @@ section {
 }
 
 .blogs .box-container .box .content .icon a:hover {
-  color: #29d9d5;
+  color: #f00606;
 }
 
 .blogs .box-container .box .content .icon a i {
   padding-right: .5rem;
-  color: #29d9d5;
+  color: #f00606;
 }
 
 .banner {
@@ -691,7 +691,7 @@ section {
 
 .banner .content span {
   font-size: 2rem;
-  color: #29d9d5;
+  color: #f00606;
 }
 
 .banner .content h3 {
@@ -739,7 +739,7 @@ section {
 
 .footer .box-container .box p i {
   padding-right: .5rem;
-  color: #29d9d5;
+  color: #f00606;
 }
 
 .footer .box-container .box .share {
@@ -753,14 +753,14 @@ section {
   font-size: 2rem;
   border-radius: 50%;
   font-size: 1.7rem;
-  border: 0.2rem solid #29d9d5;
-  color: #29d9d5;
+  border: 0.2rem solid #f00606;
+  color: #f00606;
   margin-right: .5rem;
   text-align: center;
 }
 
 .footer .box-container .box .share a:hover {
-  background: #29d9d5;
+  background: #f00606;
   color: #111;
 }
 
@@ -772,7 +772,7 @@ section {
 }
 
 .footer .box-container .box .links:hover {
-  color: #29d9d5;
+  color: #f00606;
 }
 
 .footer .box-container .box .links:hover i {
@@ -781,13 +781,13 @@ section {
 
 .footer .box-container .box .links i {
   padding-right: .5rem;
-  color: #29d9d5;
+  color: #f00606;
 }
 
 .footer .box-container .box form .email {
   width: 100%;
   border-radius: 5rem;
-  border: 0.2rem solid #29d9d5;
+  border: 0.2rem solid #f00606;
   background: none;
   font-size: 1.5rem;
   text-transform: none;
@@ -805,7 +805,7 @@ section {
 }
 
 .credit span a{
-  color: #29d9d5;
+  color: #f00606;
   text-decoration: none;
 }
 
